@@ -1,1 +1,1 @@
-# Test task from Dr.Smile
+Test task from Dr.Smile
